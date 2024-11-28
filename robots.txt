@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://goonemyuk.github.io/dikdas/sitemap.xml
+Sitemap: https://dikdas.web.id/sitemap.xml
